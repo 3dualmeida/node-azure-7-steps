@@ -1,1 +1,2 @@
-# node-azure-7-steps
+﻿# node-azure
+Projeto criado para demonstrar como fazer deploy no Azure
